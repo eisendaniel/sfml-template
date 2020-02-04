@@ -1,6 +1,6 @@
 #include <SFML/Graphics.hpp>
 
-int main()
+int main(int argc, char **argv)
 {
 	int width = 300, height = 300;
 

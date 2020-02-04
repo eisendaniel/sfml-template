@@ -8,28 +8,28 @@
 		<Option virtualFolders="CMake Files\;CMake Files\lib\;CMake Files\lib\SFML\;CMake Files\lib\SFML\lib\;CMake Files\lib\SFML\lib\cmake\;CMake Files\lib\SFML\lib\cmake\SFML\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Daniel/projects/templates/SFML/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Daniel/projects/templates/SFML/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="sfml">
-				<Option output="C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/sfml.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Daniel/projects/templates/SFML/cmake-build-debug"/>
+				<Option output="C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/sfml.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -44,15 +44,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 sfml"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 sfml"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="sfml/fast">
-				<Option output="C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/sfml.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Daniel/projects/templates/SFML/cmake-build-debug"/>
+				<Option output="C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/sfml.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -67,42 +67,42 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 sfml/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 sfml/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Daniel/projects/templates/SFML/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/SFML/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Daniel/projects/templates/sfml-template/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Daniel/projects/templates/SFML/main.cpp">
+		<Unit filename="C:/Users/Daniel/projects/templates/sfml-template/main.cpp">
 			<Option target="sfml"/>
 		</Unit>
-		<Unit filename="C:/Users/Daniel/projects/templates/SFML/CMakeLists.txt">
+		<Unit filename="C:/Users/Daniel/projects/templates/sfml-template/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="C:/Users/Daniel/projects/templates/SFML/lib/SFML/lib/cmake/SFML/SFMLConfig.cmake">
+		<Unit filename="C:/Users/Daniel/projects/templates/sfml-template/lib/SFML/lib/cmake/SFML/SFMLConfig.cmake">
 			<Option virtualFolder="CMake Files\lib\SFML\lib\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="C:/Users/Daniel/projects/templates/SFML/lib/SFML/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+		<Unit filename="C:/Users/Daniel/projects/templates/sfml-template/lib/SFML/lib/cmake/SFML/SFMLConfigDependencies.cmake">
 			<Option virtualFolder="CMake Files\lib\SFML\lib\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="C:/Users/Daniel/projects/templates/SFML/lib/SFML/lib/cmake/SFML/SFMLConfigVersion.cmake">
+		<Unit filename="C:/Users/Daniel/projects/templates/sfml-template/lib/SFML/lib/cmake/SFML/SFMLConfigVersion.cmake">
 			<Option virtualFolder="CMake Files\lib\SFML\lib\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="C:/Users/Daniel/projects/templates/SFML/lib/SFML/lib/cmake/SFML/SFMLStaticTargets-release.cmake">
+		<Unit filename="C:/Users/Daniel/projects/templates/sfml-template/lib/SFML/lib/cmake/SFML/SFMLStaticTargets-release.cmake">
 			<Option virtualFolder="CMake Files\lib\SFML\lib\cmake\SFML\"/>
 		</Unit>
-		<Unit filename="C:/Users/Daniel/projects/templates/SFML/lib/SFML/lib/cmake/SFML/SFMLStaticTargets.cmake">
+		<Unit filename="C:/Users/Daniel/projects/templates/sfml-template/lib/SFML/lib/cmake/SFML/SFMLStaticTargets.cmake">
 			<Option virtualFolder="CMake Files\lib\SFML\lib\cmake\SFML\"/>
 		</Unit>
 	</Project>
